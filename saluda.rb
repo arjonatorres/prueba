@@ -1,4 +1,4 @@
 print "¿Cómo te llamas? "
 nombre = gets.chomp
 puts "¡Hola, #{nombre}! Encantado de conocerte."
-puts "Igualmente."
+puts "Igualmente colega."
